@@ -29,5 +29,8 @@ These instructions will help you set up a local development environment for the 
 ### Running the Application
 - Press F5 to start the application or green Play button.
 
+## POE
+[Programming 2B](https://github.com/Tobyrams/StudentModuleManager/blob/master/PROG6212POE.pdf)
+
 ### Languages and Tools:
 ![Static Badge](https://img.shields.io/badge/C%23-green?style=for-the-badge&logoColor=blue)
